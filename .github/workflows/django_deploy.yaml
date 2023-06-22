@@ -31,7 +31,7 @@ jobs:
                   value: 5xeuu%71e@wu=#f@^xs6fp0d$adc@c7dvk@8-gfb%0r@ynpe*-
                 - name: DJANGO_SUPERUSER_USERNAME
                   value: admin
-                - name: DJANGO_SUPERUSER_PASSWOR
+                - name: DJANGO_SUPERUSER_PASSWORD
                   value: admin
                 - name: DJANGO_SUPERUSER_EMAIL
                   value: admin@admin.io
