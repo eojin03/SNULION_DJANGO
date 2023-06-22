@@ -170,3 +170,5 @@ SIMPLE_JWT = {
     'ACCESS_TOKEN': 'access_token',
     'REFRESH_TOKEN': 'refresh_token',
 }
+
+SESSION_COOKIE_DOMAIN = '.cloudtype.app'
